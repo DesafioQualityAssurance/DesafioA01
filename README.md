@@ -1,9 +1,6 @@
 # DesafioA01
 
-<p><h2>Criar um desafio que envolve a escolha entre diferentes ferramentas de automação e inclui o desenvolvimento de uma API, testes de banco de dados, testes de integração e testes de front-end é uma excelente maneira de avaliar as habilidades de um QA. Abaixo, descrevo o desafio em detalhes:
-Desafio de Automação e Desenvolvimento de Software para QA
-
-Objetivo: O objetivo deste desafio é avaliar as habilidades de automação de teste, desenvolvimento de API, conhecimento de banco de dados, testes de integração e testes de front-end dos participantes. Os participantes terão a opção de escolher entre as ferramentas de automação Cypress, Playwright, Selenium com Java, C#, Ruby e Python para a automação de testes de front-end.
+<p><h2>Objetivo: O objetivo deste desafio é avaliar as habilidades de automação de teste, desenvolvimento de API, conhecimento de banco de dados, testes de integração e testes de front-end dos participantes. Os participantes terão a opção de escolher entre as ferramentas de automação Cypress, Playwright, Selenium com Java, C#, Ruby e Python para a automação de testes de front-end.
 
 Fase 1: Desenvolvimento da API
 
