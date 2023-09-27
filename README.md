@@ -45,3 +45,9 @@ Nesta fase, utilizando a ferramenta de automação de teste escolhida (Cypress, 
 - Os participantes também devem incluir um arquivo README que explique como configurar o ambiente de teste e como executar os testes e a aplicação.
 
 Este desafio abrange uma ampla gama de habilidades relevantes para um QA, incluindo desenvolvimento de API, automação de teste, testes de banco de dados, testes de integração e testes de front-end. Ele permite que os candidatos demonstrem suas habilidades em várias áreas e forneçam um projeto completo que pode ser avaliado de acordo com critérios específicos.
+
+Estamos abertos a novos desafios. Caso tenha uma ideia, envie-a para este email e ela será acrescentada no readme.
+
+##Email
+
+- desafioqa23@gmail.com
