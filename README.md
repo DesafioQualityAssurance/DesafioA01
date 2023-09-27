@@ -40,7 +40,7 @@ Nesta fase, utilizando a ferramenta de automação de teste escolhida (Cypress, 
 - Avalie a qualidade do código, a organização, a clareza e a eficácia dos testes.
 
 ## Entrega
-
+- Os participantes devem fazer o Fork
 - Os participantes devem fornecer o código fonte de sua API, do aplicativo front-end e dos testes automatizados.
 - Os participantes também devem incluir um arquivo README que explique como configurar o ambiente de teste e como executar os testes e a aplicação.
 
