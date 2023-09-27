@@ -1,8 +1,11 @@
-# DesafioA01
+# Desafio de Automação e Desenvolvimento de uma API para QA
 
-# Desafio de Automação e Desenvolvimento para QA
+## Motivação
+
+Hoje em dia, é essencial que os profissionais de QA tenham habilidades sólidas em lógica de programação e compreendam os princípios de desenvolvimento de software. À medida que as equipes de desenvolvimento e QA colaboram cada vez mais em ambientes ágeis, a capacidade de entender e interagir com a camada de back-end de uma aplicação se tornou uma habilidade valiosa. É por isso que incluímos a fase de desenvolvimento da API neste desafio.
 
 ## Objetivo
+
 Este desafio tem como objetivo avaliar as habilidades de automação de teste, desenvolvimento de API, conhecimento de banco de dados, testes de integração e testes de front-end dos participantes. Os participantes terão a opção de escolher entre as ferramentas de automação Cypress, Playwright, Selenium com Java, C#, Ruby e Python para a automação de testes de front-end.
 
 ## Fase 1: Desenvolvimento da API
